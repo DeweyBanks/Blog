@@ -33,6 +33,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 gem 'popper_js', '~> 1.14.5'
 gem 'devise'
+gem 'bootstrap_form'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
