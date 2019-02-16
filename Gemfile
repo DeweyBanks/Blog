@@ -49,6 +49,7 @@ group :development, :test do
   gem 'poltergeist'
   gem 'database_cleaner'
   gem 'selenium-webdriver'
+  gem 'pry'
 end
 
 group :development do
