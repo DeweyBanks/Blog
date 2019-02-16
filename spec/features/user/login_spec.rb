@@ -1,7 +1,7 @@
 require "rails_helper"
 
 RSpec.feature "Login", :type => :feature do
-  let(:user) { FactoryBot.create(:user) }
+  let(:user) { create(:user) }
 
   scenario 'user navigates to the login page and succesfully logs in', js: true do
     user
