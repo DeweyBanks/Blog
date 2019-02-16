@@ -34,6 +34,7 @@ gem 'jquery-rails'
 gem 'popper_js', '~> 1.14.5'
 gem 'devise'
 gem 'bootstrap_form'
+gem 'faker'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
