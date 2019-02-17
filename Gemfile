@@ -35,6 +35,7 @@ gem 'popper_js', '~> 1.14.5'
 gem 'devise'
 gem 'bootstrap_form'
 gem 'faker'
+gem 'will_paginate'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
